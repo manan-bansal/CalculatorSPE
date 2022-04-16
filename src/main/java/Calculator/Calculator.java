@@ -84,7 +84,7 @@ public class Calculator {
         } while (true);
     }
 
-
+    // Functions
     public double add(double number1, double number2) {
         logger.info("ADDITION - " + number1 + ", " + number2);
         double result = number1 + number2;
