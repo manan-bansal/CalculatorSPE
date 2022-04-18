@@ -22,7 +22,7 @@ public class Calculator {
         double number1, number2 = 0;
         do {
             System.out.println("Scientific Calculator : Press the number corresponding to the operation that you need to perform");
-            System.out.print("1) Add\n2) Subtract\n3) Multiply\n4) Divide\n5) Inverse\n6) Factorial\n7) Power\n8) Square Root\n9) Log\n" +
+            System.out.print("1) Addition\n2) Subtraction\n3) Multiplication\n4) Division\n5) Inverse\n6) Factorial\n7) Power\n8) Square Root\n9) Log\n" +
                     "Press any other key to exit");
             int choice;
             try {
