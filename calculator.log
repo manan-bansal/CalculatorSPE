@@ -138,3 +138,11 @@
 16/Apr/2022:18:56:45 009 [Calculator.java] [INFO] Calculator.Calculator RESULT - 4.0
 16/Apr/2022:18:56:45 010 [Calculator.java] [INFO] Calculator.Calculator MULTIPLICATION - 2.1, 3.2
 16/Apr/2022:18:56:45 010 [Calculator.java] [INFO] Calculator.Calculator RESULT - 6.720000000000001
+18/Apr/2022:14:50:18 011 [Calculator.java] [INFO] Calculator.Calculator FACTORIAL - 5.0
+18/Apr/2022:14:50:18 016 [Calculator.java] [INFO] Calculator.Calculator RESULT - 120.0
+18/Apr/2022:14:50:18 018 [Calculator.java] [INFO] Calculator.Calculator RESULT - 2.0
+18/Apr/2022:14:50:18 019 [Calculator.java] [INFO] Calculator.Calculator FACTORIAL - 6.0
+18/Apr/2022:14:50:18 020 [Calculator.java] [INFO] Calculator.Calculator RESULT - 720.0
+18/Apr/2022:14:50:18 021 [Calculator.java] [INFO] Calculator.Calculator RESULT - 4.0
+18/Apr/2022:14:50:18 022 [Calculator.java] [INFO] Calculator.Calculator RESULT - 27.0
+18/Apr/2022:14:50:18 023 [Calculator.java] [INFO] Calculator.Calculator RESULT - 5.0
