@@ -68,7 +68,7 @@ public class CalculatorTest {
     }
     @Test
     public void logTruePositive(){
-        assertEquals("Taking log of a double for True Positive", 2.302, calculator.log(10.0), DELTA);
+        assertEquals("Taking log of a double for True Positive", 0, calculator.log(1), DELTA);
     }
     @Test
     public void logFalsePositive(){
