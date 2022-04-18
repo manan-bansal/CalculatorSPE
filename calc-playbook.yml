@@ -6,3 +6,4 @@
       docker_image:
         name: manan2808/scientificcalculator
         source: pull
+        force_source: yes
