@@ -9,6 +9,7 @@ import java.io.*;
 import java.lang.Math;
 //import java.util.logging.LogManager;
 //import java.util.logging.Logger;
+//Comment
 
 public class Calculator {
     private static final Logger logger = LogManager.getLogger(Calculator.class);
